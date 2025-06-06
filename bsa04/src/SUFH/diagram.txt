@@ -1,0 +1,2 @@
+Since the erd diagram is very large and there are 3 of them... I will not translate them into English. 
+If you want to make sure of my skills in compiling it, you can find in the test tasks (root folder) there is a much smaller diagram built in the world.
